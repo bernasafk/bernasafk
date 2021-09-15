@@ -1,5 +1,5 @@
 
-  [![Matrix SVG](https://raw.githubusercontent.com/laudep/code-gif-generator/master/docs/img/generating.gif)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+  [![Matrix SVG](https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
   <h1 align="center"><b>Hello there, I'm Bernardo 👋</b></h1>
 </p>
